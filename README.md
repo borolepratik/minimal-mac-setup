@@ -7,7 +7,7 @@
 
 brew install asdf btop cargo-binstall cmake coreutils fastfetch git openssl@3 pnpm readline rsync uv xz readline
 
-brew install --cask bitwarden flameshot ghostty insomnia responsively 1password spotify slack brave-browser sublime-text localsend whatsapp gitkraken notion notion-calendar libreoffice altair-graphql-client visual-studio-code cursor antigravity discord firefox multiviewer gitbutler iina cyberduck macs-fan-control mullvad-vpn lm-studio meld
+brew install --cask bitwarden flameshot ghostty insomnia responsively 1password spotify slack brave-browser sublime-text localsend whatsapp gitkraken notion notion-calendar libreoffice altair-graphql-client visual-studio-code cursor antigravity discord firefox multiviewer gitbutler iina cyberduck macs-fan-control mullvad-vpn lm-studio meld kap
 
 brew install jesseduffield/lazydocker/lazydocker
 
